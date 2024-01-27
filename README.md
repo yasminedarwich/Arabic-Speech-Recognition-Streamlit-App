@@ -23,3 +23,5 @@ This Streamlit Web App is designed for real-time Arabic speech recognition and t
 • Multilingual Information Retrieval: Facilitates efficient retrieval of information from multilingual audio sources.
 
 This Streamlit Web App addresses challenges in Arabic audio data scarcity, revolutionizing how we interact with and analyze Arabic speech. Explore the application to witness the power of user-centric design and functionality in Arabic speech recognition.
+
+[Link to the streamlit application]([url](https://arabic-speech-recognition.streamlit.app/)https://arabic-speech-recognition.streamlit.app/)
